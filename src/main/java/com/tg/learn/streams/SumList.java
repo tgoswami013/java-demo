@@ -2,7 +2,7 @@ package com.tg.learn.streams;
 
 import java.util.List;
 
-public class SumListUsingSteams {
+public class SumList {
     public static void main(String[] args) {
         List<Integer> numbers = List.of(2, 1, 3, 4, 6, 5);
         int sum = numbers
